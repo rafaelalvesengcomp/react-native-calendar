@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-calendar",
+        "scope": null,
+        "escapedName": "react-native-calendar",
+        "name": "react-native-calendar",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/rafaelalves/Projetos/Coaching-Individual"
+    ]
+  ],
+  "_from": "react-native-calendar@latest",
+  "_id": "react-native-calendar@0.13.1",
+  "_inCache": true,
+  "_location": "/react-native-calendar",
+  "_nodeVersion": "8.6.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-calendar-0.13.1.tgz_1507811519876_0.49931420758366585"
+  },
+  "_npmUser": {
+    "name": "coderdave",
+    "email": "coderdave@gmail.com"
+  },
+  "_npmVersion": "3.3.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-calendar",
+    "scope": null,
+    "escapedName": "react-native-calendar",
+    "name": "react-native-calendar",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-calendar/-/react-native-calendar-0.13.1.tgz",
+  "_shasum": "c3fb4b7dfb47adbf6f5f2d7313a88f99916b0fee",
+  "_shrinkwrap": null,
+  "_spec": "react-native-calendar",
+  "_where": "/Users/rafaelalves/Projetos/Coaching-Individual",
+  "author": {
+    "name": "Christopher Dro",
+    "email": "casheghian@gmail.com",
+    "url": "https://github.com/christopherdro"
+  },
+  "bugs": {
+    "url": "https://github.com/christopherdro/react-native-calendar/issues"
+  },
+  "contributors": [
+    {
+      "name": "David Sanderson",
+      "email": "coderdave@gmail.com",
+      "url": "https://github.com/coderdave"
+    }
+  ],
+  "dependencies": {
+    "moment": ">=2.10.3"
+  },
+  "description": "Simple Calendar Component for React Native",
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "7.0.0",
+    "eslint-plugin-jsx-a11y": "^0.6.2",
+    "eslint-plugin-react": "^4.3.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "c3fb4b7dfb47adbf6f5f2d7313a88f99916b0fee",
+    "tarball": "https://registry.npmjs.org/react-native-calendar/-/react-native-calendar-0.13.1.tgz"
+  },
+  "gitHead": "9e7a89afc3e5ed326177658a922d5deb3d9de534",
+  "homepage": "https://github.com/christopherdro/react-native-calendar#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "coderdave",
+      "email": "coderdave@gmail.com"
+    },
+    {
+      "name": "cdro",
+      "email": "casheghian@gmail.com"
+    }
+  ],
+  "name": "react-native-calendar",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/christopherdro/react-native-calendar.git"
+  },
+  "scripts": {
+    "eslint": "eslint ."
+  },
+  "version": "0.13.1"
+}
